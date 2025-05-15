@@ -1,0 +1,8 @@
+Dataset Link:
+Step 1:
+Click the link
+https://www.kaggle.com/datasets/arhamyousufzai/qa-chatbot-dataset
+Step 2:
+Download the dataset and extract the CSV dataset from the zip file. From the CSV file extract the prompts and the values/Text.
+Step 3:
+Feed the dataset to the model for creative response
